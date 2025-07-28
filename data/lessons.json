@@ -7,5 +7,23 @@
     "Price": 1500,
     "IsPaid": false,
     "Notes": "Повторение времен, разговорная практика"
+  },
+  {
+    "ID": 2,
+    "StudentID": 2,
+    "Date": "2025-07-29T01:11:14.2030314+03:00",
+    "Topic": "Разбор Future Perfect",
+    "Price": 1200,
+    "IsPaid": false,
+    "Notes": "Практика разговорной части"
+  },
+  {
+    "ID": 3,
+    "StudentID": 2,
+    "Date": "2025-08-01T00:00:00Z",
+    "Topic": "ff",
+    "Price": 155,
+    "IsPaid": false,
+    "Notes": "aa"
   }
 ]

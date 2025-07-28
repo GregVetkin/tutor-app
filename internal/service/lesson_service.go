@@ -47,3 +47,4 @@ func (s *LessonService) MarkLessonAsPaid(id int) error {
 func (s *LessonService) GetLessonsForStudent(studentID int) ([]domain.Lesson, error) {
 	return s.repo.ListByStudent(studentID)
 }
+
